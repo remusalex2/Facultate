@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Facultate
 {
-    class Student
+    public class Student
     {
         #region Proprietati
         public string Nume { get; set; }

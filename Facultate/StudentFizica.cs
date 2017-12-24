@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Facultate
 {
-    class StudentFizica : Student
+    public class StudentFizica : Student
     {
         public List<float> NoteFizica { get; set; }
         public float MedieFizica { get; set; }
