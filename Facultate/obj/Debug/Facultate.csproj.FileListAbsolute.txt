@@ -1,0 +1,10 @@
+D:\Programare\Facultate\Facultate\Facultate\bin\Debug\Facultate.exe.config
+D:\Programare\Facultate\Facultate\Facultate\bin\Debug\Facultate.exe
+D:\Programare\Facultate\Facultate\Facultate\bin\Debug\Facultate.pdb
+D:\Programare\Facultate\Facultate\Facultate\obj\Debug\Facultate.csprojResolveAssemblyReference.cache
+D:\Programare\Facultate\Facultate\Facultate\obj\Debug\Facultate.Form1.resources
+D:\Programare\Facultate\Facultate\Facultate\obj\Debug\Facultate.Properties.Resources.resources
+D:\Programare\Facultate\Facultate\Facultate\obj\Debug\Facultate.csproj.GenerateResource.Cache
+D:\Programare\Facultate\Facultate\Facultate\obj\Debug\Facultate.csproj.CoreCompileInputs.cache
+D:\Programare\Facultate\Facultate\Facultate\obj\Debug\Facultate.exe
+D:\Programare\Facultate\Facultate\Facultate\obj\Debug\Facultate.pdb
