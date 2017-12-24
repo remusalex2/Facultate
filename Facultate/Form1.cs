@@ -15,6 +15,9 @@ namespace Facultate
         public Form1()
         {
             InitializeComponent();
+
+            Student student = new Student();
+            StudentMate studentMate = new StudentMate();
         }
     }
 }
